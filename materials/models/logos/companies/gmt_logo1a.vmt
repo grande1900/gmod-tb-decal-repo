@@ -1,0 +1,10 @@
+vertexlitgeneric
+{
+
+	$basetexture models/logos/companies/gmt_logo1a_d
+
+	$alphatest 1
+	$alphatestreference 0.1
+	$allowalphatocoverage 1
+
+}
